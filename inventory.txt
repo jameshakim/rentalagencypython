@@ -1,0 +1,8 @@
+ITEM - RENT - REPLACEMENT VALUE
+--------------------------------------
+6' ladder   -  10  -  70 
+12' ladder  -  15  -  200
+drill       -  20  -  100
+chainsaw    -  35  -  500
+table saw   -  35  -  500
+floodlights -  25  -  100
